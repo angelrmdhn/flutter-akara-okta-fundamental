@@ -1,11 +1,24 @@
-# flutter_akara_okta_fundamental
+# hello_world
 
-A new Flutter module project.
+A new Flutter project created with https://flutlab.io
 
 ## Getting Started
 
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
+This project is a starting point for a Flutter application.
 
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+A few resources to get you started if this is your first Flutter project:
+
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
+
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Getting Started: FlutLab - Flutter Online IDE
+
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
+- Join the discussion and conversation on https://flutlab.io/residents
+
+If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
